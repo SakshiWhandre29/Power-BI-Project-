@@ -1,0 +1,4 @@
+🧩 DAX Measures (Sample)
+Total Sales = SUM(Sales[Amount])
+Profit Margin = DIVIDE(SUM(Sales[Profit]), SUM(Sales[Amount]))
+Delivery Delay = AVERAGE(Sales[Delivery_Time])
