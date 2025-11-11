@@ -1,5 +1,7 @@
 # Power-BI-Project-
 📊 Blinkit Sales Analysis – Power BI Dashboard
+
+
 🔍 Project Overview
 
 This project analyzes Blinkit’s sales, delivery performance, and profitability trends using Power BI. The goal is to identify patterns across regions, improve delivery metrics, and enable data-driven decision-making.
